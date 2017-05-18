@@ -4,16 +4,16 @@ Apache Pig Latin Script to Convert EPrints XML to Graph GML files and geocoded C
 
 eartexte-convert.pig is the main Pig Latin script that converts EPrints XML data from e-artexte (http://e-artexte.ca) 
 
-About running Pig scriptsn:
+###About running Pig scriptsn:
   https://pig.apache.org/docs/r0.7.0/setup.html
 
-Convert data using Pig:
+###Convert data using Pig:
 
-Generate graph files and edge files:
+###Generate graph files and edge files:
   pig -x local -param datafile="XML/data_humanist_photography.xml" eartexte-convert.pig
 
 
-Visualization layout with Gephi 
+##Visualization layout with Gephi 
 
   File -> Open -> Select GML file
 
@@ -41,6 +41,6 @@ Visualization layout with Gephi
 
   Sigma Exporter https://marketplace.gephi.org/plugin/sigmajs-exporter/ 
 
-Visualization using Cytoscape
+##Visualization using Cytoscape
 
   Import -> Network file > [choose from the /OUTPUT/EDGEFILES]
