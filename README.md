@@ -8,7 +8,7 @@ eartexte-convert.pig is the main Pig Latin script that converts EPrints XML data
   https://pig.apache.org/docs/r0.7.0/setup.html
 
 ### Convert data using Pig: Generate graph files (GML) and edge files (CSV):
-  pig -x local -param datafile="XML/data_humanist_photography.xml" eartexte-convert.pig
+  pig -x local -param datafile="XML/data_humanist_photography.xml" **eartexte-convert.pig**
 
 
 ## Visualization layout with Gephi 
