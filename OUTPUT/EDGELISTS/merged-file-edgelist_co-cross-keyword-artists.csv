@@ -1,0 +1,119 @@
+ARTIST-RUN CENTRE	CAR
+ARTIST-RUN CENTRE	CENTRE D'ARTISTE AUTOGÉRÉ
+ARTIST-RUN CENTRE	AUTOMOBILE
+ARTIST-RUN CENTRE	Ramlochand, Ramona
+ARTIST-RUN CENTRE	Niro, Shelley
+ARTIST-RUN CENTRE	Fortier, Julie-C.
+ARTIST-RUN CENTRE	Dechene, Reuel
+ARTIST-RUN CENTRE	Bouchard, Carl
+ARTIST-RUN CENTRE	Boehme, John
+ARTIST-RUN CENTRE	Barry, Kate
+ARTIST-RUN CENTRE	Ant Farm
+ARTIST-RUN CENTRE	Adams, Kim
+ARTIST-RUN CENTRE	Action Terroriste Socialement Acceptable (Atsa)
+CAR	CENTRE D'ARTISTE AUTOGÉRÉ
+CAR	Ramlochand, Ramona
+CAR	Niro, Shelley
+CAR	Fortier, Julie-C.
+CAR	Dechene, Reuel
+CENTRE D'ARTISTE AUTOGÉRÉ	Ramlochand, Ramona
+CENTRE D'ARTISTE AUTOGÉRÉ	Niro, Shelley
+CENTRE D'ARTISTE AUTOGÉRÉ	Fortier, Julie-C.
+CENTRE D'ARTISTE AUTOGÉRÉ	Dechene, Reuel
+AUTOMOBILE	CAR
+AUTOMOBILE	CENTRE D'ARTISTE AUTOGÉRÉ
+AUTOMOBILE	Ramlochand, Ramona
+AUTOMOBILE	Niro, Shelley
+AUTOMOBILE	Fortier, Julie-C.
+AUTOMOBILE	Dechene, Reuel
+AUTOMOBILE	Bouchard, Carl
+AUTOMOBILE	Boehme, John
+AUTOMOBILE	Barry, Kate
+AUTOMOBILE	Ant Farm
+AUTOMOBILE	Adams, Kim
+AUTOMOBILE	Action Terroriste Socialement Acceptable (Atsa)
+Niro, Shelley	Ramlochand, Ramona
+Fortier, Julie-C.	Ramlochand, Ramona
+Fortier, Julie-C.	Niro, Shelley
+Dechene, Reuel	Ramlochand, Ramona
+Dechene, Reuel	Niro, Shelley
+Dechene, Reuel	Fortier, Julie-C.
+Bouchard, Carl	CAR
+Bouchard, Carl	CENTRE D'ARTISTE AUTOGÉRÉ
+Bouchard, Carl	Ramlochand, Ramona
+Bouchard, Carl	Niro, Shelley
+Bouchard, Carl	Fortier, Julie-C.
+Bouchard, Carl	Dechene, Reuel
+Boehme, John	CAR
+Boehme, John	CENTRE D'ARTISTE AUTOGÉRÉ
+Boehme, John	Ramlochand, Ramona
+Boehme, John	Niro, Shelley
+Boehme, John	Fortier, Julie-C.
+Boehme, John	Dechene, Reuel
+Boehme, John	Bouchard, Carl
+Barry, Kate	CAR
+Barry, Kate	CENTRE D'ARTISTE AUTOGÉRÉ
+Barry, Kate	Ramlochand, Ramona
+Barry, Kate	Niro, Shelley
+Barry, Kate	Fortier, Julie-C.
+Barry, Kate	Dechene, Reuel
+Barry, Kate	Bouchard, Carl
+Barry, Kate	Boehme, John
+Ant Farm	CAR
+Ant Farm	CENTRE D'ARTISTE AUTOGÉRÉ
+Ant Farm	Ramlochand, Ramona
+Ant Farm	Niro, Shelley
+Ant Farm	Fortier, Julie-C.
+Ant Farm	Dechene, Reuel
+Ant Farm	Bouchard, Carl
+Ant Farm	Boehme, John
+Ant Farm	Barry, Kate
+Adams, Kim	CAR
+Adams, Kim	CENTRE D'ARTISTE AUTOGÉRÉ
+Adams, Kim	Ramlochand, Ramona
+Adams, Kim	Niro, Shelley
+Adams, Kim	Fortier, Julie-C.
+Adams, Kim	Dechene, Reuel
+Adams, Kim	Bouchard, Carl
+Adams, Kim	Boehme, John
+Adams, Kim	Barry, Kate
+Adams, Kim	Ant Farm
+Action Terroriste Socialement Acceptable (Atsa)	CAR
+Action Terroriste Socialement Acceptable (Atsa)	CENTRE D'ARTISTE AUTOGÉRÉ
+Action Terroriste Socialement Acceptable (Atsa)	Ramlochand, Ramona
+Action Terroriste Socialement Acceptable (Atsa)	Niro, Shelley
+Action Terroriste Socialement Acceptable (Atsa)	Fortier, Julie-C.
+Action Terroriste Socialement Acceptable (Atsa)	Dechene, Reuel
+Action Terroriste Socialement Acceptable (Atsa)	Bouchard, Carl
+Action Terroriste Socialement Acceptable (Atsa)	Boehme, John
+Action Terroriste Socialement Acceptable (Atsa)	Barry, Kate
+Action Terroriste Socialement Acceptable (Atsa)	Ant Farm
+Action Terroriste Socialement Acceptable (Atsa)	Adams, Kim
+Martinez, Ilyana	Z'otz* Collective
+Martinez, Ilyana	TRANSFORMATION
+Martinez, Ilyana	PAINTING
+Jerezano, Erik	Z'otz* Collective
+Jerezano, Erik	Martinez, Ilyana
+Jerezano, Erik	TRANSFORMATION
+Jerezano, Erik	PAINTING
+Flores, Nahum	Z'otz* Collective
+Flores, Nahum	Martinez, Ilyana
+Flores, Nahum	Jerezano, Erik
+Flores, Nahum	TRANSFORMATION
+Flores, Nahum	PAINTING
+DISPLACEMENT	Z'otz* Collective
+DISPLACEMENT	Martinez, Ilyana
+DISPLACEMENT	Jerezano, Erik
+DISPLACEMENT	Flores, Nahum
+DISPLACEMENT	TRANSFORMATION
+DISPLACEMENT	PAINTING
+DISPLACEMENT	DRAWING
+TRANSFORMATION	Z'otz* Collective
+PAINTING	Z'otz* Collective
+PAINTING	TRANSFORMATION
+DRAWING	Z'otz* Collective
+DRAWING	Martinez, Ilyana
+DRAWING	Jerezano, Erik
+DRAWING	Flores, Nahum
+DRAWING	TRANSFORMATION
+DRAWING	PAINTING
