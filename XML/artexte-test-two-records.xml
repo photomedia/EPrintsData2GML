@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<eprints xmlns='http://eprints.org/ep2/data/2.0'>
+  <eprint id='http://e-artexte.ca/id/eprint/28195'>
+    <eprintid>28195</eprintid>
+    <rev_number>9</rev_number>
+    <userid>19</userid>
+    <dir>disk0/00/02/81/95</dir>
+    <datestamp>2017-03-24 15:56:51</datestamp>
+    <lastmod>2017-03-24 15:56:51</lastmod>
+    <status_changed>2017-03-24 15:56:51</status_changed>
+    <type>book</type>
+    <metadata_visibility>show</metadata_visibility>
+    <creators>
+      <item>
+        <name>
+          <family>Toledo</family>
+          <given>Tamara</given>
+        </name>
+      </item>
+    </creators>
+    <contributors>
+      <item>
+        <type>author</type>
+        <name>
+          <family>Toledo</family>
+          <given>Tamara</given>
+        </name>
+      </item>
+    </contributors>
+    <title>Unpredictable Patterns</title>
+    <full_text_status>none</full_text_status>
+    <keywords>DRAWING, PAINTING, TRANSFORMATION, DISPLACEMENT</keywords>
+    <note>Includes biographical notes.</note>
+    <date>2017</date>
+    <publisher>Sur Gallery</publisher>
+    <place_of_pub>Toronto, Ont.</place_of_pub>
+    <event_title>Unpredictable Patterns</event_title>
+    <event_location>Sur Gallery (Toronto, Ont.)</event_location>
+    <event_dates>2 Feb. - 25 Mar. 2017</event_dates>
+    <event_type>exhibition</event_type>
+    <book_title>Unpredictable Patterns</book_title>
+    <related_url>
+      <item>
+        <url>http://surgallery.ca/</url>
+        <type>pub</type>
+      </item>
+    </related_url>
+    <copyright_holders>
+      <item>Sur Gallery</item>
+    </copyright_holders>
+    <physical_copy>TRUE</physical_copy>
+    <collation>[12] p. : col. ill. ; 12 x 22 cm</collation>
+    <dossier>11427</dossier>
+    <type_pri>type_7</type_pri>
+    <artists>
+      <item>Flores, Nahum</item>
+      <item>Jerezano, Erik</item>
+      <item>Martinez, Ilyana</item>
+      <item>Z&apos;otz* Collective</item>
+    </artists>
+    <critics>
+      <item>Toledo, Tamara</item>
+      <item>Test, Test</item>
+    </critics>
+    <language>
+      <item>en</item>
+    </language>
+    <publishers>
+      <item>
+        <name>Sur Gallery</name>
+        <place>Toronto, Ont.</place>
+      </item>
+    </publishers>
+    <src_eval>Échelle d&apos;évaluation interne, 2017-03-09 (JH)</src_eval>
+    <cat_level>M</cat_level>
+    <workflow_type>biblio_item</workflow_type>
+    <kw>
+      <item>DRAWING</item>
+      <item>PAINTING</item>
+      <item>TRANSFORMATION</item>
+      <item>DISPLACEMENT</item>
+    </kw>
+    <browse_authors>
+      <item>Toledo, Tamara</item>
+    </browse_authors>
+    <eprint_status>archive</eprint_status>
+  </eprint>
+  <eprint id='http://e-artexte.ca/id/eprint/18305'>
+    <eprintid>18305</eprintid>
+    <rev_number>2</rev_number>
+    <userid>1</userid>
+    <source>/opt/eprints3/archives/artexte/data/data-5.csv:18305</source>
+    <dir>disk0/00/01/83/05</dir>
+    <datestamp>2007-03-28</datestamp>
+    <lastmod>2012-04-13 22:11:06</lastmod>
+    <status_changed>2012-04-13 21:27:11</status_changed>
+    <type>book</type>
+    <metadata_visibility>show</metadata_visibility>
+    <item_issues_count>0</item_issues_count>
+    <creators>
+      <item>
+        <name>
+          <family>St-Laurent</family>
+          <given>Stefan</given>
+        </name>
+      </item>
+    </creators>
+    <contributors>
+      <item>
+        <type>author</type>
+        <name>
+          <family>St-Laurent</family>
+          <given>Stefan</given>
+        </name>
+      </item>
+    </contributors>
+    <title>Culture Crash</title>
+    <full_text_status>none</full_text_status>
+    <keywords>AUTOMOBILE, CENTRE D&apos;ARTISTE AUTOGÉRÉ, CAR, ARTIST-RUN CENTRE</keywords>
+    <date>2007</date>
+    <date_type>publication</date_type>
+    <publisher>SAW Gallery</publisher>
+    <place_of_pub>Ottawa, Ont.</place_of_pub>
+    <book_title>Culture Crash</book_title>
+    <physical_copy>TRUE</physical_copy>
+    <collation>[10] p. : ill. col. ; 22 cm</collation>
+    <dossier>659</dossier>
+    <type_pri>type_28</type_pri>
+    <type_sec>
+      <item>type_40</item>
+    </type_sec>
+    <artists>
+      <item>Action Terroriste Socialement Acceptable (Atsa)</item>
+      <item>Adams, Kim</item>
+      <item>Ant Farm</item>
+      <item>Barry, Kate</item>
+      <item>Boehme, John</item>
+      <item>Bouchard, Carl</item>
+      <item>Dechene, Reuel</item>
+      <item>Fortier, Julie-C.</item>
+      <item>Niro, Shelley</item>
+      <item>Ramlochand, Ramona</item>
+    </artists>
+    <artorgs>
+      <item>artorg_714</item>
+    </artorgs>
+    <critics>
+      <item>St-Laurent, Stefan</item>
+    </critics>
+    <language>
+      <item>en</item>
+      <item>fr</item>
+    </language>
+    <publishers>
+      <item>
+        <name>SAW Gallery</name>
+        <place>Ottawa, Ont.</place>
+      </item>
+    </publishers>
+    <src_eval>Échelle d&apos;évaluation interne (EL)</src_eval>
+    <cat_level>ST</cat_level>
+    <workflow_type>biblio_item</workflow_type>
+    <kw>
+      <item>AUTOMOBILE</item>
+      <item>CENTRE D&apos;ARTISTE AUTOGÉRÉ</item>
+      <item>CAR</item>
+      <item>ARTIST-RUN CENTRE</item>
+    </kw>
+    <browse_authors>
+      <item>St-Laurent, Stefan</item>
+    </browse_authors>
+    <eprint_status>archive</eprint_status>
+  </eprint>
+</eprints>
