@@ -13,6 +13,8 @@ eartexte-convert.pig is the main Pig Latin script that converts EPrints XML data
 
 ## Visualization layout with Gephi 
 
+  Gephi: https://gephi.org/
+
   File -> Open -> Select GML file
 
   Statistics -> Run (Network Diameter) -> Select Undirected, Normalize Centralities in [0,1]
