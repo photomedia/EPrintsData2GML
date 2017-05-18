@@ -16,16 +16,27 @@ pig -x local -param datafile="XML/data_humanist_photography.xml" eartexte-conver
 Visualization layout with Gephi 
 
 File -> Open -> Select GML file
+
 Statistics -> Run (Network Diameter) -> Select Undirected, Normalize Centralities in [0,1]
+
 Statistics  -> Run (Modularity)
+
 Layout – Force Atlas 2 -> scaling (12, depending on size of network)
+
 Appearance – Nodes -> Size -> Ranking -> Betweenness Centrality (5-20) on a spline
+
 Appearance – Nodes -> Partition > Modularity Class
+
 Optional Filters: 
+
 •	Filters - > Topology > Giant Component
+
 •	Filters -> Topology -> Degree Range
+
 •	Filters –> Attributes -> Range -> Betweenness Centrality
+
 •	Filters -> Edges -> Edge Weight
+
 Export -> Sigma.js Template -> fill in 
 
 Sigma Exporter https://marketplace.gephi.org/plugin/sigmajs-exporter/ 
