@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "http://e-artexte.ca/style/images/logo.jpg",
+    "link": "http://e-artexte.ca/",
+    "text": "Tomasz Neugebauer"
+  },
+  "text": {
+    "more": "e-artexte artists and keywords related to photography. Nodes are artists or keywords, connected by an edge if they appeared in the same item. \n",
+    "intro": "e-artexte artists and keywords around photography  Edges connect artists/keywords if they appear in the same item. \nAtlas 2 layout (dissuade hubs), betweeness centrality mapped to node size.\nFilters applied: Giant Component, Edge Weight (2-375)\nNodes: 5847 (35.77% visible)\nEdges: 81614 (6.35% visible)\n",
+    "title": "Cross-artists and keywords related to photography"
+  },
+  "legend": {
+    "edgeLabel": "item",
+    "colorLabel": "community detection",
+    "nodeLabel": "artist or keyword"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "Label"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}

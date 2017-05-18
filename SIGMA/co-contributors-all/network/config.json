@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "http://e-artexte.ca/style/images/logo.jpg",
+    "link": "http://e-artexte.ca/",
+    "text": "Tomasz Neugebauer"
+  },
+  "text": {
+    "more": "e-artexte contributors. Nodes are contributors connected by an edge if they appeared in the same item.\n",
+    "intro": "All e-artexte contributors connected by nodes if they appear in the same item. \nAtlas 2 layout, betweeness centrality mapped to node size.\nFilters applied: Giant Component, Edge Weight (5-85), Degree Range (2-1088)\nNodes: 4202 (10.64% of 39,482 visible)\nEdges: 19145 (3.05% of 628,216 visible)\n",
+    "title": "Contributor network of e-artexte"
+  },
+  "legend": {
+    "edgeLabel": "item",
+    "colorLabel": "community detection",
+    "nodeLabel": "contributor"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "Label"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}

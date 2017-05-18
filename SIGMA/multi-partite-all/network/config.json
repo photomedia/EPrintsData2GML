@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "http://e-artexte.ca/style/images/logo.jpg",
+    "link": "http://e-artexte.ca/",
+    "text": "Tomasz Neugebauer"
+  },
+  "text": {
+    "more": "e-artexte catalogue as a multi-partite network \n",
+    "intro": "e-artexte catalogue as a multi-partite network Atlas 2 layout (dissuade hubs), betweeness centrality mapped to node size. Filters applied: Giant Component, Betweenness Centrality (0.0015 - 0.78544) Nodes: 6110 (3.98 % visible) Edges: 52932 (13.51 % visible)\n",
+    "title": "all e-artexte as a multi-partite graph "
+  },
+  "legend": {
+    "edgeLabel": "connections between items and metadata (critic, artist, keyword, publisher)",
+    "colorLabel": "community detection",
+    "nodeLabel": "item, keyword, artist, critic, publisher, or contributor"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "Label"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}

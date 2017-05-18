@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "http://e-artexte.ca/style/images/logo.jpg",
+    "link": "http://e-artexte.ca/",
+    "text": "Tomasz Neugebauer"
+  },
+  "text": {
+    "more": "e-artexte artists and keywords related to photography or photographie connected by item edges if they co-appear in the same item\n",
+    "intro": "e-artexte artists and keywords related to photography or photographie connected by edges if they appear in the same item.\nFruchterman Reingold layout, betweeness centrality mapped to node size.\nFilters applied: Edge Weight (5-375)\nNodes: 1090 (6.67 % visible)\nEdges: 5062 (0.39 % visible)\n",
+    "title": "e-artexte artists and keywords"
+  },
+  "legend": {
+    "edgeLabel": "item",
+    "colorLabel": "community detection",
+    "nodeLabel": "aritst or keyword"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "Label"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
