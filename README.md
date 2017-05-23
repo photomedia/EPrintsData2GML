@@ -46,3 +46,12 @@ eartexte-convert.pig is the main Pig Latin script that converts EPrints XML data
   Cytoscape: http://www.cytoscape.org/
 
   Import -> Network file > [choose CSV file from the /OUTPUT/EDGELISTS]
+  
+## About the author:
+
+  Tomasz Neugebauer (tomasz.neugebauer@concordia.ca) 
+  Digital Projects & Systems Development Librarian at Concordia University in Montreal
+
+## License:
+
+  MIT License
