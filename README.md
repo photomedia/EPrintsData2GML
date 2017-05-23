@@ -47,6 +47,10 @@ eartexte-convert.pig is the main Pig Latin script that converts EPrints XML data
 
   Import -> Network file > [choose CSV file from the /OUTPUT/EDGELISTS]
   
+## Demo visualizations:
+
+   http://photomedia.ca/visualizations/artexte/
+  
 ## About the author:
 
   Tomasz Neugebauer (tomasz.neugebauer@concordia.ca) 
