@@ -14,6 +14,8 @@ eartexte-convert.pig is the main Pig Latin script that converts EPrints XML data
 ## Visualization layout with Gephi 
 
   Gephi: https://gephi.org/
+  
+  To increase the memory available for Gephi, see: https://gephi.org/users/install/#memory
 
   File -> Open -> Select GML file
 
