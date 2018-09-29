@@ -41,7 +41,7 @@ eartexte-convert.pig is the main Pig Latin script that converts EPrints XML data
 
   Export -> Sigma.js Template -> fill in 
 
-  Sigma Exporter https://marketplace.gephi.org/plugin/sigmajs-exporter/ 
+  Sigma Exporter https://github.com/oxfordinternetinstitute/gephi-plugins/tree/sigmaexporter-plugin 
 
 ## Visualization using Cytoscape
   
